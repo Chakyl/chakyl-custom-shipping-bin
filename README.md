@@ -12,10 +12,10 @@ One of the more annoying parts of making a commerce modpack pack is actually sel
 - Items with a sell value will automatically have tooltips. You can hold shift while hovering to auto-calculate the entire stack size
 
 ## Required mods 
-- https://www.curseforge.com/minecraft/mc-mods/kubejs - Required
-- https://www.curseforge.com/minecraft/mc-mods/powerfuljs - Required
-- https://www.curseforge.com/minecraft/mc-mods/numismatics - Unless you replace numismatics coins with your own custom coins. (Will need to change it in [`globalValues.js`](https://github.com/Chakyl/chakyl-custom-shipping-bin/blob/main/kubejs/startup_scripts/globalValues.js) and [`valueTooltips.js`](https://github.com/Chakyl/chakyl-custom-shipping-bin/blob/main/kubejs/client_scripts/valueTooltips.js)
-- https://www.curseforge.com/minecraft/mc-mods/shipping-bin - For assets/sounds/attributes. Can also be replaced if you substitute it with your own. You'll need to hide/remove the recipe for the existing shipping bin in this mod.
+- [Kubejs](https://www.curseforge.com/minecraft/mc-mods/kubejs) - Required
+- [PowerfulJS](https://www.curseforge.com/minecraft/mc-mods/powerfuljs - Required
+- [Shipping Bin](https://www.curseforge.com/minecraft/mc-mods/shipping-bin - For assets/sounds/attributes. Can also be replaced if you substitute it with your own. You'll need to hide/remove the recipe for the existing shipping bin in this mod.
+- [Create: Numismatics](https://www.curseforge.com/minecraft/mc-mods/numismatics - Unless you replace numismatics coins with your own custom coins. (Will need to change it in [`globalValues.js`](https://github.com/Chakyl/chakyl-custom-shipping-bin/blob/main/kubejs/startup_scripts/globalValues.js) and [`valueTooltips.js`](https://github.com/Chakyl/chakyl-custom-shipping-bin/blob/main/kubejs/client_scripts/valueTooltips.js)
 
 ## Optional mod support:
 - [Quality Food](https://www.curseforge.com/minecraft/mc-mods/quality-food) - Quality has an impact on values that's also reflected in the tooltip
