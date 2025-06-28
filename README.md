@@ -1,7 +1,7 @@
 # chakyl-custom-shipping-bin
 A custom shipping bin implementation written using Kubejs for Minecraft Modpacks.
 
-One of the more annoying parts of making a commerce modpack pack is actually selling the items. There are a bunch of different mod solutions and they all have their own flaws so I wrote a custom solution for Sunlit Valley. The code isn't perfect but it's been stress-tested and stable!
+One of the more annoying parts of making a commerce modpack pack is actually selling the items. There are a bunch of different mod solutions and they all have their own flaws so I wrote a custom solution for [Society: Sunlit Valley](https://www.curseforge.com/minecraft/modpacks/society-sunlit-valley). The code isn't perfect but it's been stress-tested and stable!
 
 ## Features:
 - Made for Minecraft 1.20.1 Forge
