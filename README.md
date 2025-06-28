@@ -11,7 +11,7 @@ One of the more annoying parts of making a commerce modpack pack is actually sel
 - Supports the Shipping Bin mod's attribute system so you can do things like make crops sell for 2x more with things like skills
 - Items with a sell value will automatically have tooltips. You can hold shift while hovering to auto-calculate the entire stack size
 
-## Required mods 
+## Dependencies
 - [Kubejs](https://www.curseforge.com/minecraft/mc-mods/kubejs) - **Required**
 - [PowerfulJS](https://www.curseforge.com/minecraft/mc-mods/powerfuljs) - **Required**
 - [Shipping Bin](https://www.curseforge.com/minecraft/mc-mods/shipping-bin) - For assets/sounds/attributes. Can also be replaced if you substitute it with your own. You'll need to hide/remove the recipe for the existing shipping bin in this mod.
