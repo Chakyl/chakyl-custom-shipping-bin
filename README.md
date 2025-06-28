@@ -23,7 +23,7 @@ One of the more annoying parts of making a commerce modpack pack is actually sel
 - [Splendid Slimes](https://www.curseforge.com/minecraft/mc-mods/splendid-slimes) - Plorts/Hearts are data driven so the type is determined by nbt.
 
 ### Splendid Slimes compat
-If you're using Splendid Slimes you'll also need to add this to `globalValues.js`:
+If you're using Splendid Slimes you'll also need to add this to [`globalValues.js`](https://github.com/Chakyl/chakyl-custom-shipping-bin/blob/main/kubejs/startup_scripts/globalValues.js):
 ```
 global.plorts = [
   { type: "splendid_slimes:slimy", value: 32 },
@@ -70,7 +70,7 @@ global.slimeHearts.forEach((heart) => {
   });
 });
 ```
-And this to `valueTooltips.js`:
+And this to [`valueTooltips.js`](https://github.com/Chakyl/chakyl-custom-shipping-bin/blob/main/kubejs/client_scripts/valueTooltips.js):
 ```
   tooltip.addAdvanced("splendid_slimes:plort", (item, advanced, text) => {
     let plortType;
